@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 group-title="4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png",CCTV4K
 http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
-#EXTINF:-1 group-title="4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png",纯享4K
+#EXTINF:-1 tvg-name="4KUHD" tvg-logo="https://live.fanmingming.com/tv/4KUHD.png" group-title="4K",4KUHD
 http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
-#EXTINF:-1 group-title="4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png",纯享4K
+#EXTINF:-1 group-title="4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png",CCTV4K
 http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 #EXTINF:-1 group-title="4K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png",CCTV8K
 http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221228165/index.m3u8
@@ -49,13 +49,13 @@ http://ott.mobaibox.com/PLTV/4/224/3221228835/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221228877/index.m3u8
 #EXTINF:-1 tvg-name="浙江卫视4K超高清" tvg-logo="https://live.fanmingming.com/tv/浙江卫视4K超高清.png" group-title="4K",浙江卫视4K超高清
 http://ott.mobaibox.com/PLTV/4/224/3221228900/index.m3u8
-#EXTINF:-1 tvg-name="香港凤凰卫视" tvg-logo="https://live.fanmingming.com/tv/香港凤凰卫视.png" group-title="凤凰",香港凤凰卫视
+#EXTINF:-1 tvg-name="香港凤凰卫视" tvg-logo="https://live.fanmingming.com/tv/香港凤凰卫视.png" group-title="凤凰",凤凰卫视
 http://ott.mobaibox.com/PLTV/4/224/3221228527/index.m3u8
-#EXTINF:-1 tvg-name="香港凤凰卫视" tvg-logo="https://live.fanmingming.com/tv/香港凤凰卫视.png" group-title="凤凰",香港凤凰卫视
+#EXTINF:-1 tvg-name="香港凤凰卫视" tvg-logo="https://live.fanmingming.com/tv/香港凤凰卫视.png" group-title="凤凰",凤凰卫视
 http://ott.mobaibox.com/PLTV/4/224/3221228524/index.m3u8
 #EXTINF:-1 tvg-name="香港台" tvg-logo="https://live.fanmingming.com/tv/香港台.png" group-title="凤凰",香港台
 http://ott.mobaibox.com/PLTV/4/224/3221228530/index.m3u8
-#EXTINF:-1 group-title="凤凰" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png",凤凰中文
+#EXTINF:-1 tvg-name="香港凤凰卫视" tvg-logo="https://live.fanmingming.com/tv/香港凤凰卫视.png" group-title="凤凰",凤凰卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 #EXTINF:-1 group-title="凤凰" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
 http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
