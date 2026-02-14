@@ -23,7 +23,7 @@ http://ott.mobaibox.com/PLTV/4/224/3221227506/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221228141/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4K超高清" tvg-logo="https://live.fanmingming.com/tv/CCTV4K超高清.png" group-title="4K",CCTV4K超高清
 http://ott.mobaibox.com/PLTV/4/224/3221228472/index.m3u8
-#EXTINF:-1 tvg-name="CCTV8K超高清压缩4K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K超高清压缩4K.png" group-title="4K",CCTV8K超高清压缩4K
+#EXTINF:-1 group-title="4K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png",CCTV8K
 http://ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1 4K" tvg-logo="https://live.fanmingming.com/tv/CCTV1 4K.png" group-title="4K",CCTV1 4K
 http://ott.mobaibox.com/PLTV/4/224/3221228581/index.m3u8
